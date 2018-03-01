@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+h2{
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+} 
+h1 {
+    background-color: #4aaaa5;
+    width: 240px;
+    margin-left: 275px;
+    font-family: 'Georgia', Times, Times New Roman, serif;  
+    
+}
+section {
+    background-color: #ffffff;
+    width: 700px;
+    height: 410px;
+    padding: 30px;
+    margin-left: 250px;
+    margin-top: 0px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+.footer {
+    background-color: #666666;
+    padding: 30px;
+    width: 700px;
+    margin-left: 250px;
+    border-top: #4aaaa5;
+
+    
+}
+#topnav {
+    margin-left: 700px;
+
+}
+
+#topnav a {
+
+}
+
